@@ -1,0 +1,21 @@
+.navbar .left{
+    display: absolute;
+    text-align: center;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 70%;
+    margin-right: 100px;
+}
+
+.navbar img{
+    float: left;
+}
+
+.navbar .left .login{
+    font-size: large;
+}
+
+.navbar .left .login:hover .dollar{
+    font-size: larger;
+}
